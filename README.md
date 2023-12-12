@@ -37,6 +37,7 @@ See local download instructions below to get the code and install dependencies.
 ```bash
 git clone https://github.com/brownasamuel/BayesFinal2023
 npm install
+```
 
 ## Usage
 
