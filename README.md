@@ -21,8 +21,8 @@ In order to find controllable predictors' effects on strength and endurance perf
 
 ## Content
 
-[Final Code](https://github.com/brownasamuel/BayesFinal2023/blob/main/Actual_Final_Project.ipynb): The Jupyter Notebook containing the final completed analysis. <br>
-[Final_Document](https://github.com/brownasamuel/BayesFinal2023/blob/main/Final_Paper.pdf): The PDF containing our final paper<br>
+[Final Code](https://github.com/brownasamuel/BayesFinal2023/blob/main/BayesFinalProjectCode.ipynb): The Jupyter Notebook containing the final completed analysis. <br>
+[Final_Document](https://github.com/brownasamuel/BayesFinal2023/blob/main/Bayes%20Final%20Project%20Report.pdf): The PDF containing our final paper<br>
 [Crossfit Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/crossfit-athletes?select=athletes.csv): The Kaggle dataset used for the analysis.
 
 ## Installation
